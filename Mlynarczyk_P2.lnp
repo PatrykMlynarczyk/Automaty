@@ -1,9 +1,0 @@
---cpu ARM7TDMI
-".\startup.o"
-".\main.o"
-".\led.o"
-".\keyboard.o"
---strict --scatter ".\Mlynarczyk_P2.sct"
---summary_stderr --info summarysizes --map --xref --callgraph --symbols
---info sizes --info totals --info unused --info veneers
---list ".\Mlynarczyk_P2.map" -o .\Mlynarczyk_P2.axf

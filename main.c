@@ -23,7 +23,7 @@ int iPressCounter = 1;
 		LedIint();
 		KeyboardInit();
 		LedStepRight();
-		while(1)
+		while(1) // dupa dupa dupa
 		{
 			buttonstate = eKeyboardRead();
 			switch(eLedState){

@@ -3,7 +3,9 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\patml\Desktop\Automaty\6\Mlynarczyk_P2.uvproj
-Project File Date:  04/23/2024
+C:\Users\patml\Desktop\git clone\Automaty\Mlynarczyk_P2.uvproj
+Project File Date:  05/27/2024
 
 <h2>Output:</h2>
+Clean started: Project: 'Mlynarczyk_P2'
+   deleting intermediate output files for target 'Target 1'
